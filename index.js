@@ -3,8 +3,8 @@ Driver with name, age, and experience properties
 PickupLocation with address and city properties
 
 function Driver(name, age, experience) {
-  this.name = name; 
-  this.age = age; 
+  this.name = name;
+  this.age = age;
   this.experience = experience;
 };
 function Scooter(year, color, model) {
@@ -12,5 +12,3 @@ function Scooter(year, color, model) {
   this.color = color;
   this.model = model;
 };
-
-
